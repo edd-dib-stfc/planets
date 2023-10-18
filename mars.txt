@@ -1,4 +1,5 @@
 It's all red
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-
+Venus is also worth considering, given its lack of moons
+see venus.txt for more
